@@ -1,0 +1,24 @@
+.bg-light{
+background: rgb(220, 246, 230);
+}
+.todo-card{
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.872) !important;
+    backdrop-filter: blur(8px);
+    border-radius: 8px;
+}
+.date-style{
+    font-size: 10px;
+    padding-left: 10px;
+}
+.icon-style{
+    position: absolute;
+    font-size: 10px;
+}
+.icon-style:hover{
+    color: red;
+}
+.content{
+    padding: 1rem .5rem ;
+    height: 95%;
+}
